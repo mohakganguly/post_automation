@@ -334,6 +334,22 @@ The posting service isolates individual platform failures and collects the resul
 - Protect OAuth credentials and refresh tokens.
 - Apply appropriate access controls to publishing endpoints.
 
+## 📸 Implementation Demonstration
+
+## Screenshots
+
+### 1. Successful Multi-Platform Publishing
+
+![Successful Publishing](./ss/Screenshot%202026-11-17%20014439.png)
+
+### 2. API Documentation
+
+![API Documentation](./ss/Screenshot%202026-11-17%20014542.png)
+
+### 3. Test Results
+
+![Test Results](./ss/Screenshot%202026-11-17%20014623.png)
+
 ## License
 
 This project is developed as an automated multi-platform content publishing system. Add an appropriate license before distributing it publicly.
